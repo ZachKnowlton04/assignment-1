@@ -23,24 +23,28 @@
     font-size: medium;
     margin: 0px 0px 0px 5px;
 }
-.flex-container{
-    display: flex
+.main-flex{
+    display: flex;
+}
+.flex-one{
+    display: flex;
+    flex-direction: column;
 }
 #functional-music{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 35px;
     font-weight: lighter;
-    margin: 300px 0px 5px 25px;
+    margin: 300px 0px 0px 25px;
 }
 #focus{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
     font-weight: bolder;
-    margin: 5px 0px 0px 25px;
+    margin: 10px 0px 0px 25px;
 }
-#sounds-different{
+#science-first{
     color:white;
     font-family: Arial, Helvetica, sans-serif;
     margin: 25px 0px 0px 25px;
@@ -65,9 +69,16 @@
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size: medium;
-    margin: 0px 0px 0px 25px;
+    margin: 25px 0px 0px 25px;
 }
 #headphones{
-    margin: 150px 0px 0px 275px;
-    height: 500px;
+    margin: 150px 0px 0px 475px;
+    width: 800px;
+}
+#see-the-science{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 150px;
 }
