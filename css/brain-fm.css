@@ -23,13 +23,19 @@
     font-size: medium;
     margin: 0px 0px 0px 5px;
 }
-.main-flex{
+
+
+
+.horizontal-flex{
     display: flex;
 }
-.flex-one{
+.vertical-flex{
     display: flex;
     flex-direction: column;
 }
+
+
+
 #functional-music{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -47,6 +53,7 @@
 #science-first{
     color:white;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
     margin: 25px 0px 0px 25px;
     line-height: 125%;
 }
@@ -80,5 +87,76 @@
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-weight: bold;
+    font-size: 25px;
     margin-top: 150px;
+}
+
+
+
+#sound-waves{
+    width: 650px;
+    margin: 150px 0px 0px 200px;
+}
+#patented{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 25px 0px 0px 200px;
+}
+#remove-distractions{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 25px 0px 0px 200px;
+}
+span{
+    font-weight: bold;
+}
+#unique-music{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 25px 0px 0px 200px;
+}
+#explore{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: underline;
+    margin: 25px 0px 0px 200px;
+}
+
+
+
+
+#brain-scan{
+    width: 600px;
+    margin: 150px 0px 0px 175px;
+}
+#tested{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 40px 0px 0px 175px;
+}
+#scientists{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 25px 0px 0px 175px;
+}
+#brain-effects{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 25px 0px 0px 175px;
+}
+#experiments{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 25px 0px 0px 175px;
 }
